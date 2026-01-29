@@ -1,0 +1,11 @@
+vendor_id,passenger_count,trip_distance,fare_amount,payment_type
+1,1,2.5,12.5,Cash
+2,2,5.1,20.0,Card
+1,1,1.2,7.8,Cash
+2,3,10.0,35.6,Card
+1,2,3.4,15.2,Cash
+2,1,0.8,5.5,Card
+1,4,12.7,40.0,Cash
+2,2,6.5,22.3,Card
+1,1,4.0,18.0,Cash
+2,3,8.9,30.4,Card
