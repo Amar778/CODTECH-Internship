@@ -1,7 +1,7 @@
 
 ---
 
-## 🧩 Task 1: Big Data Analysis using PyS
+## 🧩 Task 1: Big Data Analysis using PySp
 
 ### 🔹 Description
 This task performs big data analysis using **Apache Spark (PySpark)** on a CSV dataset.
